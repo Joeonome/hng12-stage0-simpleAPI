@@ -34,6 +34,6 @@ Tags:
 
     name: simpleAPI
     
-    description: Returns an e-mail, date_time & git repo
+    description: Returns an e-mail, date_time & git repo in json format
 
 HNG: https://hng.tech/hire/nodejs-developers
