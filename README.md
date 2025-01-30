@@ -20,6 +20,32 @@ Request/response format = JSON
 
 Response code = 200
 
+Example usage: 
+
+Define the API URL
+
+  ```
+const apiUrl = 'https://simple-api-41uu.vercel.app';
+
+```
+
+ Make a GET request
+
+```
+fetch(apiUrl)
+  .then(response => {
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    return response.json();
+  })
+  .then(data => {
+    console.log(data);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+```
   
 Contact: 
 
