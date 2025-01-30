@@ -15,7 +15,7 @@ app.listen(PORT,
 app.get('/', (req, res) => { res.json({ 
   "email": "joseph.onumeguolor@gmail.com",
   "current_datetime": jsonString,
-  "github_url": "<https://github.com/Joeonome/simpleAPI>"}) });
+  "github_url": "https://github.com/Joeonome/simpleAPI"}) });
 
 
   module.exports = app;
