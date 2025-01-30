@@ -21,14 +21,18 @@ Response code = 200
 
   
 Contact: 
+
     email: joseph.onumeguolor@gmail.com
     repo-url:[ https://https://github.com/Joeonome/
+    
 server:
+
     url: https://vercel.com/
+    
 Tags:
+
     name: simpleAPI
+    
     description: Returns an e-mail, date_time & git repo
-    externalDocs:
-    url: https://simple-api-41uu.vercel.app/
 
 HNG: https://hng.tech/hire/nodejs-developers
