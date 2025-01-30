@@ -12,6 +12,10 @@ How to Setup:
   - go to "http://localhost:8080/" to check that app is runnung
   - use API testing platforms like postman to verify other details like status code, response time, etc
 
+Endpoint URL = https://simple-api-41uu.vercel.app/
+Request/response format = JSON
+Response code = 200
+
   
 Contact: 
     email: joseph.onumeguolor@gmail.com
