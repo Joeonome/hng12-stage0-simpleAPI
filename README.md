@@ -1,5 +1,5 @@
 simpleAPI
-API endpoint: https://simple-api-41uu.vercel.app/
+(API endpoint: https://simple-api-41uu.vercel.app/)
 
 Description:
   A Simple API Call to return a JSON Object
