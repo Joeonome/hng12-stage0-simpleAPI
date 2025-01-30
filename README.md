@@ -5,6 +5,11 @@ Description:
   (https://github.com/Joeonome/simpleAPI)
 
 How to Setup:
+  - clone repo with command: "git clone https://github.com/Joeonome/simpleAPI" to your desired directory
+  - install the necessary dependencies to the folder in "./api/index.js" file
+  - run "node ." in terminal
+  - go to "http://localhost:8080/" to check that app is runnung
+  - use API testing platforms like postman to verify other details like status code, response time, etc
 
   
 Contact: 
