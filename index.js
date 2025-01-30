@@ -9,7 +9,7 @@ const jsonString = dateObj.toISOString();
 app.listen(PORT, 
     () => { console.log(`Example app listening on port ${PORT}!`); });
 
-app.get('/', (req, res) => { res.json({ 
+app.get('/data', (req, res) => { res.json({ 
   "email": "joseph.onumeguolor@gmail.com",
   "current_datetime": jsonString,
   "github_url": "<https://github.com/Joeonome/simpleAPI>"}) });
