@@ -52,7 +52,7 @@ Contact:
     email: joseph.onumeguolor@gmail.com
     repo-url:[ https://https://github.com/Joeonome/
     
-server:
+Server:
 
     url: https://vercel.com/
     
