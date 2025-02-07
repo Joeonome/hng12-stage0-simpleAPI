@@ -4,10 +4,10 @@
 
 Description:
   A Simple API Call to return a JSON Object
-  (https://github.com/Joeonome/simpleAPI)
+  (https://github.com/Joeonome/hng12-stage0-simpleAPI.git)
 
 How to Setup:
-  - clone repo with command: "git clone https://github.com/Joeonome/simpleAPI" to your desired directory
+  - clone repo with command: "git clone https://github.com/Joeonome/hng12-stage0-simpleAPI.git" to your desired directory
   - install the necessary dependencies to the folder in "./api/index.js" file
   - run "node ." in terminal
   - go to "http://localhost:8080/" to check that app is runnung
